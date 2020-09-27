@@ -4,4 +4,3 @@
 - 🤓 Actually I am a lawyer
 - 💬 Ask me anything 
 - 📫 Follow me: ![twitter follow button](https://img.shields.io/twitter/follow/carolinchenhh?style=social)
-- ⚡ Fun fact: I am not funny
